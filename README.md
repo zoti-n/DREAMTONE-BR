@@ -5,32 +5,15 @@
   Jogo por: Benichi
 </div>
 <div align="center">
-<p> Essa é uma tradução feita inteiramente por fãs, não temos envolvendo algum com Benich, e sua equipe. <br><br>
+<p>Essa é uma tradução feita inteiramente por fãs, não temos envolvendo algum com Benich, e sua equipe.<br>
+<small>Recomendamos fortemente que suportem o criador e esse projeto ainda em desenvolvimento.</small>
 </div>
 
 <div align="center">
-<h2> - Como instalar a tradução - </h2>
+<h2> - COMO INSTALAR A TRADUÇÃO - </h2>
 </div>
-
 <div align="center">
-  Dreamtone é um jogo gratuito ( no momento... ) e está disponivel tanto na Steam quanto na Itch.io.    
-   
-  Logo abaixo estarão os metodos de como instalar a tradução pra ambas as versão.
-<div align="center">
+<p>Dreamtone é um jogo ainda em desenvolvimento, com sua demo estando disponivél para aqueles que querem conhecer e jogar.<br>
+O jogo tem duas versões disponiveis para download: <b>Steam</b> e <b>Itch.io</b>
+<p>Logo abaixo, estaram os metodos para instalar a tradução em ambas as versões.</p
 </div>
-
-<div align="center">
-   
-<b>Steam</b>: 
-   
-<div align="center"> 
-   
-Acesse sua Steam, então clique na aba "Biblioteca"   
-   
-<div align="center">  
-   
-[ - Biblioteca > Pagina Inicial - ]   
-   
-<div align="center">
-   
-Em sua biblioteca, procure por *Dreamtone Demo* e então clique no jogo com o botão direito do mouse, uma outra aba irá aparecer. <br><br>
