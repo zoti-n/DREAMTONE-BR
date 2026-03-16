@@ -13,7 +13,7 @@
 <h2> - COMO INSTALAR A TRADUÇÃO - </h2>
 </div>
 <div align="center">
-<p>Dreamtone é um jogo ainda em desenvolvimento, com sua demo estando disponivél para aqueles que querem conhecer e jogar.<br>
+<p>Dreamtone é um jogo ainda em desenvolvimento, com sua demo estando disponivél para aqueles que<br>querem conhecer e jogar.<br>
 O jogo tem duas versões disponiveis para download: <b>Steam</b> e <b>Itch.io</b>
 <p>Logo abaixo, estaram os metodos para instalar a tradução em ambas as versões.</p>
 </div>
