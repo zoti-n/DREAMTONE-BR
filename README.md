@@ -25,8 +25,8 @@
   - Clique com o botão direito no jogo
   - Vá em **Gerenciar → Explorar arquivos locais**
 ###  Instale a tradução
-- Abra a pasta onde o "DREAMTONE_Br" está instalado.
-- extraia na pasta "DREAMTONE Demo"
+- Abra o arquivo onde o " DREAMTONE.pck " está baixado.
+- copie o `.pck`, e cole em "DREAMTONE Demo"
 - Quando aparecer a opção, clique em Substituir o arquivo no destino.
  <br> ou
 - Copie o arquivo `.pck` da tradução.
