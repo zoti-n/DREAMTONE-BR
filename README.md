@@ -9,7 +9,9 @@
 
 <div align="center">
  <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Benichi. e sua equipe.<br><br>
-   Recomendamos fortemente que você apoie o desenvolvedor e o projeto original.
+   Recomendamos fortemente que você apoie o desenvolvedor e o projeto original.<br>
+   <a href="https://store.steampowered.com/app/4419920/DREAMTONE_Demo/?l=brazilian"> DREAMTONE Demo</a>
+   <br>
   </div>
 
 
