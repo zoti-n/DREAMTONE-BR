@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LOGO_DRTREAM.png" >  
+  <img src="LOGO_DT.png" >  
 
    🌕 DREAMTONE: Demo
 
@@ -36,7 +36,9 @@
 
 
 
+
 ## Créditos
+<img src="creditos" width="300" > 
 <b>PexPR</b> ▸ Tradução 〢 Revisão<br>
 <b>Zoti</b> ▸ Tradução  〢 Sprites<br>
 <b>Ramb</b> ▸ Sprites<br>
