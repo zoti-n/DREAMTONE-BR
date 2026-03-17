@@ -37,7 +37,7 @@
 
 
  
-## Créditos pt-br v0.0.1
+## Créditos - PT-BR | v0.0.1
 <img src="creditos" width="300" > 
 <b>PexPR</b> ▸ Tradução 〢 Revisão<br>
 <b>Zoti</b> ▸ Tradução  〢 Sprites 〢 Revisão<br>
